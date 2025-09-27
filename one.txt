@@ -1,2 +1,4 @@
 this is one file txt
 add another filee to the folder and commit it.
+add another line to the file and commit it.
+added more line to the file and commit it.
